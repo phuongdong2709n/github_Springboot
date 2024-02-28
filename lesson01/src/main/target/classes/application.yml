@@ -1,0 +1,5 @@
+
+#server.port=8081
+#s?  d?ng khi ??i ?uôi thành yml trong resources c?a application
+server:
+  port: 8081
